@@ -206,3 +206,14 @@ LinkedIN: bg.linkedin.com/in/msergeev
 * Java / J2EE 
 * .NET
 
+## Boyan Marinov
+
+.NET Developer at FIO Systems Bulgaria
+
+### He's good at
+* .NET, OOP
+* ASP.NET WebForms, ASP.NET MVC
+* Front-End (HTML5/CSS3/Slicing)
+* Java Script
+* RESTful services
+
